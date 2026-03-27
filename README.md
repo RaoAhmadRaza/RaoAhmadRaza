@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **raoahmad.r.22@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15102wcwP9onXbL_1pDCuBu5pgDjpIFBv/view?usp=sharing](https://drive.google.com/file/d/15102wcwP9onXbL_1pDCuBu5pgDjpIFBv/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/15102wcwP9onXbL_1pDCuBu5pgDjpIFBv/view?usp=sharing](https://drive.google.com/file/d/1g0mQXwr-TCnT5p8LL1wN5331rKoWYCb1/view?usp=sharing)
 
 - ⚡ Fun fact **I enjoy experimenting with Flutter and Generative AI late at night — I call it my version of gaming.**
 
