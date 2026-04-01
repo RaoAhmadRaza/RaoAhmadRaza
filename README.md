@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raoahmadraza&label=Profile%20views&color=0e75b6&style=flat" alt="raoahmadraza" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raoahmadraza&theme=flat" alt="raoahmadraza" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.ryglcloud.net/?username=raoahmadraza&theme=flat" alt="raoahmadraza" /></a> </p>
 
 - 🔭 I’m currently working on [Guardian Angel](https://github.com/RaoAhmadRaza/guardian_angel3)
 
