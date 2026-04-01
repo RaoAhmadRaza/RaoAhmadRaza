@@ -1,21 +1,87 @@
-<h1 align="center">Hi 👋, I'm Ahmad Raza</h1>
-<h3 align="center">Flutter Full-Stack Developer & Generative AI Solutionist with expertise in building cross-platform mobile and web applications. Skilled in Firebase (Firestore, Authentication, Cloud Functions), RESTful APIs, real-time databases, API design & integration, backend logic, and cloud-based architectures. Experienced in developing custom UI/UX, secure authentication flows, and scalable full-stack solutions.</h3>
+<h1 align="center">Hi 👋, I'm Muhammad Ahmad Raza</h1>
+<h3 align="center">Mobile Full Stack Engineer (Flutter, Firebase, Node.js, PostgreSQL)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raoahmadraza&label=Profile%20views&color=0e75b6&style=flat" alt="raoahmadraza" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.ryglcloud.net/?username=raoahmadraza&theme=flat" alt="raoahmadraza" /></a> </p>
 
-- 🔭 I’m currently working on [Guardian Angel](https://github.com/RaoAhmadRaza/guardian_angel3)
+- ✨ Full Stack Flutter Developer specializing in scalable cross-platform apps using Flutter, Firebase, Node.js, and PostgreSQL.
+- 🧠 Experienced in Clean Architecture, Riverpod/BLoC, offline-first design, REST APIs, real-time features, and performance optimization.
+- 🔐 Focused on secure, production-ready solutions with advanced UI and AI-driven capabilities.
 
-- 🌱 I’m currently learning **State management (Provider, Riverpod, BLoC), Advanced animations & CustomPainter, Flutter Web optimization, Flutter Desktop & macOS apps, Performance profiling & debugging, Testing (unit, widget, integration), CI/CD with GitHub Actions or Codemagic, Flutter + Firebase advanced (Cloud Functions, Firestore security rules, offline sync), Native integrations (platform channels, plugins), Flutter for wearables (Apple Watch, WearOS), Payment gateway integration, Internationalization & localization, Accessibility best practices, Advanced prompt engineering, LangChain or LlamaIndex, RAG (Retrieval Augmented Generation), Vector databases (Pinecone, Weaviate, Chroma), Fine-tuning & embeddings, Model evaluation & benchmarking, Async APIs & streaming responses, WebSockets & real-time AI apps, FastAPI/Django with AI APIs, GraphQL with AI backends, Containerization (Docker, Kubernetes basics), Cloud deployment (Render, AWS, GCP), AI agents & tool use, Multi-modal models (text+image, Gemini Pro Vision), Security (rate limiting, safe prompts, data privacy)**
+- 🔭 I’m currently working on [WorkOS](#projects) and [ChoreFlow](#projects)
 
-- 💬 Ask me about **FLutter, Dart, Python**
+- 🌱 Currently sharpening **advanced Flutter architecture, scalable Node.js backends, and production-grade PostgreSQL systems**
 
-- 📫 How to reach me **raoahmad.r.22@gmail.com**
+- 💬 Ask me about **Flutter, Dart, Firebase, Node.js, PostgreSQL**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15102wcwP9onXbL_1pDCuBu5pgDjpIFBv/view?usp=sharing](https://drive.google.com/file/d/1g0mQXwr-TCnT5p8LL1wN5331rKoWYCb1/view?usp=sharing)
+- 📫 Reach me at **raoahmad.r.22@gmail.com**
 
-- ⚡ Fun fact **I enjoy experimenting with Flutter and Generative AI late at night — I call it my version of gaming.**
+- 📄 Portfolio/Resume: [https://drive.google.com/file/d/15102wcwP9onXbL_1pDCuBu5pgDjpIFBv/view?usp=sharing](https://drive.google.com/file/d/1g0mQXwr-TCnT5p8LL1wN5331rKoWYCb1/view?usp=sharing)
+
+- ⚡ Fun fact: **I enjoy building offline-first mobile systems as much as others enjoy gaming.**
+
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+## Work Experience
+
+### Full Stack Flutter Developer — Aiva Creative (Lahore, Pakistan)
+**Aug 2024 – Present**
+- Delivering scalable cross-platform apps using Flutter, Firebase, Node.js, and PostgreSQL.
+- Implemented REST APIs, real-time features, secure authentication, and offline-first architecture.
+- Collaborated with clients on UI/UX and deployment while optimizing performance.
+
+### Freelance — Self-Employed (Remote)
+**Jun 2024 – Present**
+- Delivered custom full-stack Flutter applications with Firebase, Node.js, and PostgreSQL.
+- Built API integrations, authentication systems, offline-first architecture, and real-time features.
+- Supported UI/UX collaboration, troubleshooting, optimization, and production deployments.
+
+## Projects
+
+### WorkOS
+**Dec 2025 – Present**
+- Multi-tenant workforce management app with task workflows, attendance, leave management, and RBAC.
+- Added real-time updates, push notifications, offline sync, and secure org-level data isolation.
+
+### FitSense AI
+**Apr 2025 – Oct 2025**
+- Flutter fitness app with Firebase auth, BLoC architecture, and Hive/SQLite persistence.
+- Built personalized onboarding, session restoration, and sensor-based motion tracking.
+- Established scalable foundation for AI-driven workouts and offline support.
+
+### Guardian Angel
+**Feb 2025 – Feb 2026**
+- AI-powered Flutter healthcare platform with Firebase backend and real-time monitoring.
+- Implemented fall-detection ML, SOS alerts, geofencing, secure messaging, and multi-role dashboards.
+- Added offline-first architecture, health integrations, and scalable cloud functions.
+
+### ChoreFlow *(In Progress)*
+**Dec 2025 – Present**
+- Household task coordination app using Flutter + Node.js/Express + PostgreSQL.
+- Implementing role-based task management, recurring workflows, REST APIs, and real-time WebSocket updates.
+- Building offline-first sync and scalable architecture for multi-user collaboration.
+
+## Core Skills
+
+- **Flutter & Mobile Development:** Flutter, Dart, cross-platform development, responsive/adaptive UI, Material 3, Cupertino, custom rendering, advanced animations, DevTools optimization, A11y, platform channels.
+- **Architecture & Client-Side Engineering:** Clean Architecture, DDD, repository pattern, unidirectional data flow, immutable state, Freezed, Riverpod, BLoC, DI (GetIt), testable architecture, offline-first design.
+- **Concurrency & Performance:** Isolates, compute, background processing, async programming, JSON/image optimization, jank reduction, raster optimization.
+- **Firebase & Serverless Backend:** Firestore modeling/indexing, security rules, RBAC/custom claims, Cloud Functions, FCM, App Check, webhooks.
+- **Node.js Backend Development:** Node.js, Express.js, REST APIs, middleware, OAuth 2.0, JWT, rate limiting, CORS, Helmet, WebSockets/Socket.io, worker threads, Redis, microservices.
+- **Database & Data Engineering:** PostgreSQL, relational modeling, SQL optimization, joins/CTEs/window functions, indexing (B-tree, GIN, GiST), JSONB optimization, Prisma, TypeORM, transactions, pooling.
+- **General Full Stack:** API integration, secure coding, scalability, deployment, debugging, unit/integration testing, cloud-native development.
+
+## Education
+
+### University Of Central Punjab
+**Bachelor's in Computer Science**  
+**Mar 2022 – Feb 2026**  
+GPA: **3.36**
+
+## Languages
+
+Urdu (Native), English (Native), Hindi (Native)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
