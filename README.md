@@ -17,7 +17,7 @@
 
 - 📫 Reach me at **raoahmad.r.22@gmail.com**
 
-- 📄 Portfolio/Resume: [https://shorturl.at/Ou3qh](https://shorturl.at/Ou3qh)
+- 📄 Portfolio/Resume: [https://drive.google.com/file/d/15102wcwP9onXbL_1pDCuBu5pgDjpIFBv/view?usp=sharing](https://drive.google.com/file/d/1g0mQXwr-TCnT5p8LL1wN5331rKoWYCb1/view?usp=sharing)
 
 - ⚡ Fun fact: **I enjoy building offline-first mobile systems as much as others enjoy gaming.**
 
