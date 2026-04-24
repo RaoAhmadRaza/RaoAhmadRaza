@@ -19,7 +19,7 @@
 
 ### 🌐 Connect
 - LinkedIn: [Muhammad Ahmad Raza](https://linkedin.com/in/muhammad ahmad raza)
-- Instagram: [@btw.its.ahmad](https://instagram.com/radium.adam)
+- Instagram: [@radium.adam](https://instagram.com/radium.adam)
 - Email: **raoahmad.r.22@gmail.com**
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=raoahmadraza&show_icons=true&locale=en&layout=compact)
